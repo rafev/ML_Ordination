@@ -1,4 +1,4 @@
-# Random Forest NMDS (i.e. ML ordination)
+# Random Forest MDS (i.e. ML ordination)
  Ordination through Random Forest framework in Caret.
 
  This function will a 3D ordination using Random Forest for the positional coordinates. The function has a few inputs:
